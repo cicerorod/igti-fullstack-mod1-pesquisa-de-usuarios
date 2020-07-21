@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <h1><strong> Pesquisa de Usuários</strong></h1>
+    <label>Buscar</label>
+
+    <div class="pesquisa-container">
+      <input
+        type="text"
+        id="textPesquisa"
+        placeholder="Pesquisar por um nome"
+      />
+      <input
+        disabled
+        type="submit"
+        id="buttonBuscar"
+        value="Buscar"
+        class="waves-effect waves-light btn"
+      />
+    </div>
+
+    <div class="nomes-container">
+      <div class="nomes-lista">
+        <h5>(<span id="countNames">0</span>) Usuário(s) encontado(s)</h5>
+        <div id="tabNomes"></div>
+      </div>
+
+      <div class="estatistica-Lista">
+        <h5>Estatísticas:</h5>
+        <h6>
+          Sexo masculino:
+          <strong><span id="estatisticatotalSexoMasculino">0</span></strong>
+        </h6>
+        <h6>
+          Sexo feminino:
+          <strong><span id="estatisticatotalSexoFeminino">0</span></strong>
+        </h6>
+        <h6>
+          soma das idades:
+          <strong><span id="estatisticaSomaIdade">0</span></strong>
+        </h6>
+        <h6>
+          Média de Idade:
+          <strong><span id="estatisticamediaIdade">0</span></strong>
+        </h6>
+      </div>
+    </div>
+    <script src="./js/people.js"></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>
