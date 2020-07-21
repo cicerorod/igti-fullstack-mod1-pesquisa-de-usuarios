@@ -1,6 +1,6 @@
 # Lista de Usuários
 
-Lista de usuário e estatísticas da pesquisa
+Lista de usuário e estatísticas da pesquisa desenvolvido no bootcamp fullstack da IGTI
 
 ## Html 🎯
 
