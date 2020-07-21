@@ -16,6 +16,7 @@ Lista de usuário e estatísticas da pesquisa desenvolvido no bootcamp fullstack
 
 - **HTML**
 - **JavaScript**
+- **CSS**
 - **Json**
 
 ## Desenvolvedor
