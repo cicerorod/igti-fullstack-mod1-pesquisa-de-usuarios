@@ -1,4 +1,4 @@
-# igti-fullstack-mod1-pesquisa-de-usuarios
+# Lista de Usuários
 
 Lista de usuário e estatísticas da pesquisa
 
