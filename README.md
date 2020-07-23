@@ -8,12 +8,6 @@ Lista de usuário e estatísticas da pesquisa desenvolvido no bootcamp fullstack
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios.git`
-2. Na pasta raiz, executar o arquivo: `index.html`
-
-
-## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
-
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod1-pesquisa-de-usuarios.git`
 2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod1-pesquisa-de-usuarios`;
 3. Na pasta raiz, executar o arquivo: `index.html`
